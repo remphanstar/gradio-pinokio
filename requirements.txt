@@ -1,0 +1,6 @@
+gradio==5.14.0
+uv          # fast package manager used by Pinokio ≥3.0 [85]
+rich        # coloured terminal output
+psutil
+pyyaml
+jsonschema
